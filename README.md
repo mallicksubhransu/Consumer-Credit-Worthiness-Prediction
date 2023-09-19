@@ -20,9 +20,9 @@ This repository contains code and documentation for predicting consumer credit w
 - [Preprocessing and Feature Engineering](#preprocessing-and-feature-engineering)
 - [Feature Selection](#feature-selection)
 - [Classification Models](#classification-models)
-- [Usage](#usage)
+- [Installation]
+- [Optimizations]
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The goal of this project is to predict consumer credit worthiness based on various features and evaluate the performance of different classification models in making accurate predictions. The project is structured into several phases, each with specific tasks and objectives.
