@@ -45,8 +45,6 @@ The project divided into four milestones:
 
 - **Objective**: Select the most relevant features to improve model efficiency and interpretability. Develop and validate classification models using stratified 5-fold cross-validation. Evaluate model performance using appropriate metrics.
 
-You can incorporate these milestones into your project's README file to provide a clear structure for your work. Each milestone can have its folder or section in your project directory, containing code, documentation, and relevant files for that specific phase of the project. This will help you and your team stay organized and focused on achieving each milestone's objectives.
-
 ## Dataset
 The dataset used for this project is [Consumer Credit Worthiness]. It contains information about 13 features described below. You can download the dataset (https://docs.google.com/spreadsheets/d/1Tp0_0XMTuh3ZOM_DYdohZU-e9c8BRme6/edit?usp=drive_link)] or use your own dataset.
 
@@ -63,8 +61,6 @@ The dataset used for this project is [Consumer Credit Worthiness]. It contains i
 - Credit_History: It tells about the credit done in the past by the applicant, dtype: Integer.<input>
 - Property_Area: This tells about the applicant property is in which area i.e., Rural or Urban, dtype: String.<input>
 - Loan_status: It is a target variable column which tells about whether the applicant application for loan approval is passed or not, dtype: String.<Output>
-
-
 
 ## Exploratory Data Analysis
 In this phase, we explore the dataset to gain insights into the data distribution, relationships between variables, and potential patterns. This step helps us understand the data better and formulate initial hypotheses about the relationships between features and the target variable.
