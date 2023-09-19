@@ -27,7 +27,7 @@ This repository contains code and documentation for predicting consumer credit w
 ## Project Overview
 The goal of this project is to predict consumer credit worthiness based on various features and evaluate the performance of different classification models in making accurate predictions. The project is structured into several phases, each with specific tasks and objectives.
 
-Certainly, here's the project divided into four milestones:
+The project divided into four milestones:
 
 ## Milestone-01: Hypothesis Making
 
