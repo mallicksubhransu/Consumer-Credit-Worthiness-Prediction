@@ -48,7 +48,7 @@ The project divided into four milestones:
 You can incorporate these milestones into your project's README file to provide a clear structure for your work. Each milestone can have its folder or section in your project directory, containing code, documentation, and relevant files for that specific phase of the project. This will help you and your team stay organized and focused on achieving each milestone's objectives.
 
 ## Dataset
-The dataset used for this project is [Consumer Credit Worthiness]. It contains information about 13 features described below. You can download the dataset [Consumer creditworthiness train data.xlsx] or use your own dataset.
+The dataset used for this project is [Consumer Credit Worthiness]. It contains information about 13 features described below. You can download the dataset (https://docs.google.com/spreadsheets/d/1Tp0_0XMTuh3ZOM_DYdohZU-e9c8BRme6/edit?usp=drive_link)] or use your own dataset.
 
 - Loan_ID: Unique Loan ID issued on every loan for a applicant, dtype: Object.<input>
 - Gender: Gender of a applicant whether male or female, dtype: string.<input>
