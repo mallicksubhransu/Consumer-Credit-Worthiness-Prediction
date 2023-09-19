@@ -27,6 +27,26 @@ This repository contains code and documentation for predicting consumer credit w
 ## Project Overview
 The goal of this project is to predict consumer credit worthiness based on various features and evaluate the performance of different classification models in making accurate predictions. The project is structured into several phases, each with specific tasks and objectives.
 
+Certainly, here's the project divided into four milestones:
+
+## Milestone-01: Hypothesis Making
+
+- **Objective**: Formulate initial hypotheses about the relationships between features and the target variable, consumer credit worthiness.
+
+## Milestone-02: Exploratory Data Analysis
+
+- **Objective**: Explore the dataset to gain insights into the data distribution, relationships between variables, and potential patterns. Formulate more specific hypotheses based on data exploration.
+
+## Milestone-03: Data Quality Checking, Preprocessing, Feature Engineering
+
+- **Objective**: Prepare the dataset for modeling. Address data quality issues, perform preprocessing tasks (handling missing values, encoding categorical variables, scaling numerical features), and engineer new features to enhance model performance.
+
+## Milestone-04: Feature Selection, Model Development, and Validation
+
+- **Objective**: Select the most relevant features to improve model efficiency and interpretability. Develop and validate classification models using stratified 5-fold cross-validation. Evaluate model performance using appropriate metrics.
+
+You can incorporate these milestones into your project's README file to provide a clear structure for your work. Each milestone can have its folder or section in your project directory, containing code, documentation, and relevant files for that specific phase of the project. This will help you and your team stay organized and focused on achieving each milestone's objectives.
+
 ## Dataset
 The dataset used for this project is [insert dataset name here]. It contains information about [describe dataset contents and features]. You can download the dataset [provide a link if available] or use your own dataset.
 
