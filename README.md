@@ -90,13 +90,6 @@ We will train and evaluate the following classification models:
 
 Each model will be trained and evaluated using stratified 5-fold cross-validation to ensure robustness and generalization of the results.
 
-## Usage
-1. Clone this repository to your local machine.
-2. Ensure you have the required dependencies installed (list them here with installation instructions if necessary).
-3. Run the provided scripts for data preprocessing, feature engineering, and model training.
-4. Evaluate the model performance using appropriate metrics.
-5. Customize the code and experiment with different configurations as needed.
-   
 ## Installation
 
 Install Machine Learning Libraries
