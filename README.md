@@ -20,8 +20,8 @@ This repository contains code and documentation for predicting consumer credit w
 - [Preprocessing and Feature Engineering](#preprocessing-and-feature-engineering)
 - [Feature Selection](#feature-selection)
 - [Classification Models](#classification-models)
-- [Installation]
-- [Optimizations]
+- [Installation](#Installation)
+- [Optimizations](#Optimizations)
 - [Contributing](#contributing)
 
 ## Project Overview
