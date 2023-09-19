@@ -48,7 +48,22 @@ The project divided into four milestones:
 You can incorporate these milestones into your project's README file to provide a clear structure for your work. Each milestone can have its folder or section in your project directory, containing code, documentation, and relevant files for that specific phase of the project. This will help you and your team stay organized and focused on achieving each milestone's objectives.
 
 ## Dataset
-The dataset used for this project is [insert dataset name here]. It contains information about [describe dataset contents and features]. You can download the dataset [provide a link if available] or use your own dataset.
+The dataset used for this project is [Consumer Credit Worthiness]. It contains information about 13 features described below. You can download the dataset [Consumer creditworthiness train data.xlsx] or use your own dataset.
+Loan_ID: Unique Loan ID issued on every loan for a applicant, dtype: Object.<input>
+Gender: Gender of a applicant whether male or female, dtype: string.<input>
+Married: Martial status of a applicant i.e., Yes for married and NO for single, dtype: string.<input>
+Dependents: Number of individuals who are financially dependent on applicant, dtype: integer.<input>
+Education: Highest Education of applicant i.e, Bachelor, Post Graduation etc, dtype: string.<input>
+Self_employed: Whether the applicant is self employed or not i.e, Yes for self employed or else NO, dtype: string.<input>
+ApplicantIncome: Income of the applicant, dtype: integer.<input>
+CoApplicantIncome: Applicant have to put one nominee name that is called CoApplicant. So, it is column releated to coapplicant income, dtype: Integer.<input>
+Loan Amount: Amount of loan applicant wants to issue from the bank.dtype: float.<input>
+Loan_Amount_Term: The amount of time the lender gives you to repay your whole loan, dtype: float.<input>
+Credit_History: It tells about the credit done in the past by the applicant, dtype: Integer.<input>
+Property_Area: This tells about the applicant property is in which area i.e., Rural or Urban, dtype: String.<input>
+Loan_status: It is a target variable column which tells about whether the applicant application for loan approval is passed or not, dtype: String.<Output>
+
+
 
 ## Exploratory Data Analysis
 In this phase, we explore the dataset to gain insights into the data distribution, relationships between variables, and potential patterns. This step helps us understand the data better and formulate initial hypotheses about the relationships between features and the target variable.
