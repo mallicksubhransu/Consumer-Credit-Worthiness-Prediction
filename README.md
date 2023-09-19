@@ -1,7 +1,5 @@
 # Consumer Credit Worthiness Prediction
- The Project used a dataset provided by the Caspian Investment firm for prediction of loan approval
- # Consumer Credit Worthiness Prediction
-
+The Project used a dataset provided by the Caspian Investment firm for prediction of loan approval.
 This repository contains code and documentation for predicting consumer credit worthiness using various classification models. The project encompasses a comprehensive data analysis pipeline, including hypothesis making, exploratory data analysis, data quality checking, hypothesis validation, preprocessing, feature engineering, feature selection, and model evaluation. Stratified 5-fold cross-validation is employed to make predictions for a test dataset using the following classification models:
 
 1. Logistic Regression
