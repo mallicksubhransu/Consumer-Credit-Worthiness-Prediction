@@ -20,6 +20,7 @@ This repository contains code and documentation for predicting consumer credit w
 - [Preprocessing and Feature Engineering](#preprocessing-and-feature-engineering)
 - [Feature Selection](#feature-selection)
 - [Classification Models](#classification-models)
+- [Dashboard](#Dashboard)
 - [Installation](#Installation)
 - [Optimizations](#Optimizations)
 - [Contributing](#contributing)
@@ -90,6 +91,8 @@ We will train and evaluate the following classification models:
 
 Each model will be trained and evaluated using stratified 5-fold cross-validation to ensure robustness and generalization of the results.
 
+## Dashboard
+https://public.tableau.com/app/profile/subhransu.sekhar.mallick/viz/CreditWorthiness_16903753019310/Dashboard1
 ![Screenshot 2024-05-29 224148](https://github.com/mallicksubhransu/Consumer-Credit-Worthiness-Prediction/assets/114018899/b057509e-9d14-4566-9e9b-409830023cd2)
 
 ## Installation
