@@ -126,7 +126,8 @@ To enhance the predictive performance of our classification models, we conducted
 - **Hyperparameter Tuning**: We performed hyperparameter tuning for each classification model to find the optimal set of hyperparameters that maximize model performance. Techniques such as grid search or random search were employed to systematically explore the hyperparameter space.
 
 The combination of cross-validation and hyperparameter tuning ensures that our models are well-optimized and capable of achieving the best possible predictive accuracy for consumer credit worthiness.
-
+## Certificate
+![Certificate](https://github.com/mallicksubhransu/Consumer-Credit-Worthiness-Prediction/blob/main/Screenshot%202025-05-05%20123159.png)
 ## Contributing
 Contributions to this project are welcome. If you have ideas for improvements or new features, please open an issue or submit a pull request.
 
